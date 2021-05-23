@@ -161,7 +161,7 @@ select:hover {
 
 .result {
 	text-align: left;
-	display: none;
+	/* display: none; */
 }
 
 .search-btn {
